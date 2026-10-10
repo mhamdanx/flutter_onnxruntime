@@ -43,7 +43,7 @@ Add the following dependency to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  flutter_onnxruntime: ^1.8.1
+  flutter_onnxruntime: ^1.9.0
 ```
 
 ### Quick Start
